@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/edi-837-file-processing-api-1030-1039/edi_837_backend_api"
+}

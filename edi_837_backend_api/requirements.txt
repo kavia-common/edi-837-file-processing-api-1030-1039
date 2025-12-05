@@ -43,4 +43,5 @@ uvicorn==0.34.0
 uvloop==0.21.0
 watchfiles==1.0.5
 websockets==15.0.1
-# NOTE: azure-storage-blob will be added in the next step once service implementation is provided.
+azure-storage-blob==12.23.0
+azure-core==1.30.2
